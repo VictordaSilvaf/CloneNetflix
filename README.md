@@ -12,14 +12,14 @@
 
 <h2>Imagens</h2>
 
-![alt text](https://i.imgur.com/NnoTa4A.png)
+![alt text](https://i.imgur.com/GpmO2Rg.png)
 
-![alt text](https://imgur.com/UXtnL8R)
+![alt text](https://i.imgur.com/UXtnL8R.png)
 
-![alt text](https://imgur.com/OMjt0Xo)
+![alt text](https://i.imgur.com/OMjt0Xo.png)
 
 <p>O filme/serie muda escolhendo um aleatorio na base de dados que seja original da netflix.</p>
 
-![alt text](https://imgur.com/VxSwt13)
+![alt text](https://i.imgur.com/NnoTa4A.png)
 
-![alt text](https://imgur.com/NnoTa4A)
+![alt text](https://i.imgur.com/VxSwt13.png)
