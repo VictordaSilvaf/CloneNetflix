@@ -18,18 +18,18 @@
 
 ![](https://i.imgur.com/OMjt0Xo.png)
 
-<p>O filme/serie muda escolhendo um aleatorio na base de dados que seja original da netflix.</p>
+<h3>O filme/serie muda escolhendo um aleatorio na base de dados que seja original da netflix.</h3>
 
 ![Mudando o recomendado de acordo com a base de dados.](https://i.imgur.com/NnoTa4A.png)
 
 ![](https://i.imgur.com/VxSwt13.png)
 
-<p>Site completamente responsivo</p>
+<h3>Site completamente responsivo</h3>
 
 ![versão mobile](https://i.imgur.com/sum9f9D.png)
 
 ![](https://i.imgur.com/jofNBA0.png)
 
-<p>Tela de login para mobile e desktop.</p>
+<h3>Tela de login para mobile e desktop.</h3>
 
 ![](https://i.imgur.com/4qiZLrU.png)
