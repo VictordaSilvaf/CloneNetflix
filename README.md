@@ -12,7 +12,7 @@
 
 <h2>Imagens</h2>
 
-![alt text](https://imgur.com/GpmO2Rg)
+![alt text](https://i.imgur.com/NnoTa4A.png)
 
 ![alt text](https://imgur.com/UXtnL8R)
 
