@@ -12,14 +12,20 @@
 
 <h2>Imagens</h2>
 
-![alt text](https://i.imgur.com/GpmO2Rg.png)
+![Tela inicial](https://i.imgur.com/GpmO2Rg.png)
 
-![alt text](https://i.imgur.com/UXtnL8R.png)
+![](https://i.imgur.com/UXtnL8R.png)
 
-![alt text](https://i.imgur.com/OMjt0Xo.png)
+![](https://i.imgur.com/OMjt0Xo.png)
 
 <p>O filme/serie muda escolhendo um aleatorio na base de dados que seja original da netflix.</p>
 
-![alt text](https://i.imgur.com/NnoTa4A.png)
+![Mudando o recomendado de acordo com a base de dados.](https://i.imgur.com/NnoTa4A.png)
 
-![alt text](https://i.imgur.com/VxSwt13.png)
+![](https://i.imgur.com/VxSwt13.png)
+
+<p>Site completamente responsivo</p>
+
+![versão mobile](https://prnt.sc/ved9k7)
+
+![](https://prnt.sc/vedak6)
