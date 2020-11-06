@@ -26,6 +26,10 @@
 
 <p>Site completamente responsivo</p>
 
-![versão mobile](https://prnt.sc/ved9k7)
+![versão mobile](https://i.imgur.com/sum9f9D.png)
 
-![](https://prnt.sc/vedak6)
+![](https://i.imgur.com/jofNBA0.png)
+
+<p>Tela de login para mobile e desktop.</p>
+
+![](https://i.imgur.com/4qiZLrU.png)
