@@ -30,6 +30,6 @@
 
 ![](https://i.imgur.com/jofNBA0.png)
 
-<h3>Tela de login para mobile e desktop.</h3>
+<h3>Tela de Loading para mobile e desktop.</h3>
 
 ![](https://i.imgur.com/4qiZLrU.png)
